@@ -47,7 +47,7 @@ group :development, :test do
   gem 'selenium-webdriver'
 
   gem 'rspec_junit_formatter'
-  gem 'rspec-rails', '4.0.0.beta3'
+  gem 'rspec-rails', '~> 4.0.0'
 end
 
 group :development do

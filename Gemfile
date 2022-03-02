@@ -9,6 +9,8 @@ end
 
 ruby '3.1.1'
 
+gem 'net-smtp'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0'
 # Use postgresql as the database for Active Record
